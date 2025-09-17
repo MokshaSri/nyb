@@ -1,2 +1,2 @@
-# upta
-Whatchu upto? A lil app to passively keep in touch with your friends/partner
+# NYB
+A Bingo app to keep track of your goals. 
